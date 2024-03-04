@@ -1,0 +1,227 @@
+*{
+    padding: 0%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.main-header{
+    padding-left:90px ;
+    padding-right: 90px ;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    height: 20px;
+    background-color: #eeeeee;
+    /* align-items: center; */
+    padding-bottom: 0%;
+
+}
+.main-header>div>button{
+    border: 1px solid white;
+    background-color: aliceblue;
+    padding-top: 0px;
+
+}
+.navbar{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+    padding-top: 0%;
+}
+.hpic>img{
+    width: 270px;
+    height: 70px;
+
+}
+li{
+    display:inline-block ;
+    padding-top: 20px;
+}
+a{
+    /* padding-top: 30px; */
+    display: block;
+    font-size: 20px;
+    padding: 7px;
+    text-decoration: none;
+    text-transform: capitalize;
+    /* padding-top: 12px;    */
+    color: black;
+
+    
+
+}
+.but1{
+     /* height: 40px;? */
+    background-color:blue;
+    color: #ffff;
+
+    
+}
+
+.but2{
+    background-color:green;
+    color: #ffff;
+   
+
+}
+.but2:hover{
+    background-color: rgb(34, 134, 34);
+
+}
+.main-body{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%px;
+}
+h1{
+    font-size:50px ;
+    font-weight: bold;
+    padding-bottom: 100px;
+}
+.gpic{
+    width: 700px;
+    height: auto;
+    
+}
+.p-body{
+    text-transform: capitalize;
+    
+     height: auto;
+     width: 400px; 
+     font-size: 22px;
+}
+.but3{
+    background-color: aliceblue;
+    border: 1px solid black;
+    color: black;
+
+}
+.full{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: capitalize;
+    padding-top: 40px;
+}
+.medi{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 0%;
+    width: 100%;
+
+}
+.medical{
+    width: 170px;
+    height: 170px;
+    background-color: #f0fcdb;
+    padding-left: 40px;
+    padding-top: 32px;
+    font-size: 20px;
+    text-transform:capitalize ;
+    border-radius: 20px;
+    text-align: -webkit-match-parent;
+
+}
+.medi>img{
+    height: 100px;
+    width: 100px;
+}
+ .it-course{
+    width: 350px;
+    height: 240px;
+    background-color: brown;
+    background-image: url("it\ course.jpg");
+    /* border: 2px solid red;  */
+    /* padding-top: 20px ; */
+    border-radius: 10px;
+    
+   
+
+}
+/* .it-courses{
+    width: 350px;
+    height: 240px;
+    background-color: brown;
+    background-image: url("foodfund.jpg");
+
+} */
+.courses{
+    width: 100%;
+    /* position: relative; */
+    /* top: 424px; */
+    /* left: 690px; */
+    display: flex;
+    justify-content: space-evenly;
+    padding: 50px 0px ;    
+    
+
+    align-items: center;
+} 
+
+
+
+
+
+
+
+
+
+
+
+.po{
+    position: relative;
+    top:162px;
+    background-color:  rgb(39, 233, 39);
+    color: black;
+    border-color: rgb(39, 233, 39);
+}
+.po:hover{
+    background-color: rgb(34, 180, 34);
+    border-color:rgb(34, 180, 34) ;
+}
+
+.it-head{
+    position: relative;
+    top: 156px;
+    padding-left: 10px;
+    font-weight: bold;
+    color:black;
+    text-transform: capitalize;
+
+}
+/* .po2{
+    position: relative;
+    top:202px;
+    background-color:  rgb(39, 233, 39);
+    color: #eeeeee;
+    border-color: rgb(39, 233, 39);
+
+}
+.po2:hover{
+    background-color: rgb(34, 180, 34);
+    border-color:rgb(34, 180, 34) ;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
